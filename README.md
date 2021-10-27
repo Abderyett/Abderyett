@@ -4,7 +4,7 @@
 
 ## I build things for the web
 
-- 🔭 I'm currently working on real state website with Next JS!
+- 🔭 I'm currently working on real estate website with Next JS!
 - 🌱 I’m currently learning TypeScript 
 - 🥅 2021 Goals: Start to Contribute to Open Source projects
 - ⚡ Fun fact: I love Photography
