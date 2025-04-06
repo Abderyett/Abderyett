@@ -4,9 +4,8 @@
 
 ## I build things for the web
 
-- 🔭 I'm currently working on real estate website with Next JS!
-- 🌱 I’m currently learning TypeScript 
-- 🥅 2021 Goals: Start to Contribute to Open Source projects
+
+- 🥅 2025 Goals: Working on Ecommerce APP include the Whole management System
 - ⚡ Fun fact: I love Photography
 
 ---
